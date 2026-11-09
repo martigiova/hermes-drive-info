@@ -1,2 +1,1 @@
-# hermes-drive-info
-Public information and privacy notice for the personal Hermes Drive integration.
+Pagine informative pubbliche di Hermes Drive. Solo descrizione e informativa sui dati; nessun contenuto Drive, token, chiave o configurazione privata.
